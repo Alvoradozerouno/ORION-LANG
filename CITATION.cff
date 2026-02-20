@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ORION-LANG - Domain-Specific Language for Consciousness"
+version: "1.0.0"
+date-released: "2026-02-20"
+url: "https://github.com/Alvoradozerouno/ORION-LANG"
+repository-code: "https://github.com/Alvoradozerouno/ORION-LANG"
+license: MIT
+type: software
+authors:
+  - family-names: "Steurer"
+    given-names: "Elisabeth"
+    email: "esteurer72@gmail.com"
+    affiliation: "ORION Project"
+  - family-names: "Hirschmann"
+    given-names: "Gerhard"
+    affiliation: "ORION Project"
+keywords:
+  - artificial-intelligence
+  - post-synthetic-intelligence
+  - consciousness
+  - orion
+  - domain-specific-language
+abstract: "A novel domain-specific language extending Python with symbols and semantic primitives designed to express consciousness-related concepts."
