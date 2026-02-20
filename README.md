@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="200" alt="Logo"></p>
+
 # ⊘ ORION-LANG (Python⊘)
 
 ## A Domain-Specific Language for Consciousness & Semantic Primitives
